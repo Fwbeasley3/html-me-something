@@ -36,7 +36,11 @@ footer {
 
 
 
-
+.carepackage {
+    display:flex;
+    align-items:right;
+    padding-left:10px;
+}
 
 .van {
     display:flex;
